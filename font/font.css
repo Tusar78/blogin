@@ -1,0 +1,14 @@
+@font-face {
+	font-family:"lato-regular";
+	src:url("../font/lato-regular.eot") format("eot"),
+	url("lato-regular.ttf") format("truetype"),
+	url("lato-regular.woff") format("woff"),
+	url("lato-regular.svg#lato-regular") format("svg");
+}
+@font-face {
+	font-family:"opensans-regular";
+	src:url("../font/opensans-regular.eot") format("eot"),
+	url("opensans-regular.ttf") format("truetype"),
+	url("opensans-regular.woff") format("woff"),
+	url("opensans-regular.svg#lato-regular") format("svg");
+}
